@@ -8,6 +8,10 @@ Welcome to 2023 Sales Review Report for Kraken Koffee's NEW FLORIDA SALES REGION
 
 <img width="1123" height="557" alt="image" src="https://github.com/user-attachments/assets/c56a33b9-456f-4570-af1d-aca0f7a67c17" />
 
+## Time of Day Revenue
+
+<img width="962" height="456" alt="image" src="https://github.com/user-attachments/assets/5882244b-6802-441c-8610-36abd6647d1a" />
+
 ## Forecast
 
 <img width="1127" height="528" alt="image" src="https://github.com/user-attachments/assets/24044bd7-d3ac-430f-a716-31db91958647" />
