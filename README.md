@@ -1,6 +1,6 @@
 # Kraken_Koffee_sales_Analysis
 Welcome to 2023 Sales Review Report for Kraken Koffee's NEW FLORIDA SALES REGION! In the visuals below you will learn about our brilliant team's performance across our three flagship stores. We'll cover insights from a range of strategic areas, pinpoint specific opportunities for improvements, and forecast the second half of 2023.
-## Dashboard KPI page
+## Dashboard KPI 
 
 <img width="1117" height="500" alt="image" src="https://github.com/user-attachments/assets/590dff92-6aed-4206-a945-4fd9112175eb" />
 
